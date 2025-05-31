@@ -16,3 +16,7 @@ This Power BI dashboard provides a clear snapshot of Madhav Ecommerce's sales pe
 * Top Category: Clothing accounts for 63% of all sales quantity.
 * Others: Electronics (21%), Furniture (17%)
 * Insight: Apparel is the leading category. Expanding the clothing catalog could drive more sales.
+## 💳 Payment Mode Analysis:
+* Most Used: COD (Cash on Delivery) – 44%
+* Followed by UPI (21%), Debit Card (13%), and Credit Card (12%)
+* Insight: Customers heavily prefer COD, indicating trust-building opportunities with online payment methods.
