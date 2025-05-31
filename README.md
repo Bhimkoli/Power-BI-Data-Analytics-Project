@@ -12,3 +12,7 @@ This Power BI dashboard provides a clear snapshot of Madhav Ecommerce's sales pe
 ## 🧑 Sales by Customer Name:
 * Top Customers: Harivansh leads in purchase amount followed by Madhav and Madan Mohan.
 * Insight: These loyal customers could be targets for loyalty rewards or premium offers.
+# 🧺 Sales Quantity by Category:
+* Top Category: Clothing accounts for 63% of all sales quantity.
+* Others: Electronics (21%), Furniture (17%)
+* Insight: Apparel is the leading category. Expanding the clothing catalog could drive more sales.
