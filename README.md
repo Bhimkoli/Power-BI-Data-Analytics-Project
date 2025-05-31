@@ -5,3 +5,4 @@ This Power BI dashboard provides a clear snapshot of Madhav Ecommerce's sales pe
 * Total Quantity Sold: 5615 units
 * Total Profit: 37K
 * Average Order Value (AOV): 121K
+## 📌 Visuals & Insights:
