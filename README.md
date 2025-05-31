@@ -20,3 +20,21 @@ This Power BI dashboard provides a clear snapshot of Madhav Ecommerce's sales pe
 * Most Used: COD (Cash on Delivery) – 44%
 * Followed by UPI (21%), Debit Card (13%), and Credit Card (12%)
 * Insight: Customers heavily prefer COD, indicating trust-building opportunities with online payment methods.
+## 📆 Monthly Profit Trend:
+* High Profit: January and December show peak profits.
+* Low/Negative Profit: May and June show losses.
+* Insight: Seasonal sales spikes in December and January (possibly festive/winter sales). Consider promotional strategies for slower months.
+## 📚 Profit by Sub-Category:
+* Top Performers: Printers and Bookcases generate the highest profits.
+* Other Profitable Items: Sarees, Accessories, Tables.
+* Insight: High-profit margin items like printers and bookcases should be prioritized in marketing strategies.
+## ✅ Dashboard Features:
+* Dynamic Filters:
+  **Quarter Selector (Q1, Q2)
+  **State Filter (e.g., Andhra Pradesh, Bihar)
+*Interactive Visuals with consistent color themes and modern UI
+*User-friendly layout designed for executives and analysts
+## 🛠️ Tools Used:
+* Microsoft Power BI
+*DAX for Measures & KPIs
+*Data Source: Hypothetical E-commerce Sales Data
